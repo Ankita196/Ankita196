@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankita196" alt="ankita196" /></a> </p>
 
-- 🌱 I’m currently learning **React React-Native**
+- 🌱 I’m currently learning **React Js**
 
 - 📫 How to reach me **muskanmakde1999@gmail.com**
 
